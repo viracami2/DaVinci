@@ -1,0 +1,11 @@
+C:\Users\vcastro\source\repos\DaVinci.DataBase\bin\Debug\netcoreapp3.1\DaVinci.DataBase.deps.json
+C:\Users\vcastro\source\repos\DaVinci.DataBase\bin\Debug\netcoreapp3.1\DaVinci.DataBase.dll
+C:\Users\vcastro\source\repos\DaVinci.DataBase\bin\Debug\netcoreapp3.1\DaVinci.DataBase.pdb
+C:\Users\vcastro\source\repos\DaVinci.DataBase\bin\Debug\netcoreapp3.1\DaVinci.Domain.dll
+C:\Users\vcastro\source\repos\DaVinci.DataBase\bin\Debug\netcoreapp3.1\DaVinci.Domain.pdb
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.csprojAssemblyReference.cache
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.AssemblyInfoInputs.cache
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.AssemblyInfo.cs
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.csproj.CopyComplete
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.dll
+C:\Users\vcastro\source\repos\DaVinci.DataBase\obj\Debug\netcoreapp3.1\DaVinci.DataBase.pdb

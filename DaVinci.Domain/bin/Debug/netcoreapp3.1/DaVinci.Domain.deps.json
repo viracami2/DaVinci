@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DaVinci.Domain/1.0.0": {
+        "runtime": {
+          "DaVinci.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaVinci.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

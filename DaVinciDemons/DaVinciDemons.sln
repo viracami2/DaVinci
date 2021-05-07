@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaVinciDemons", "DaVinciDemons.csproj", "{4B2D9581-2477-4C68-8830-0EC5B66B664E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{2EF64323-65BF-4377-98EF-499D40C56736}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{CB5AC0C5-22BC-4BC8-A681-FC553424DBC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaVinci.Core", "..\DaVinci.Core\DaVinci.Core.csproj", "{BF5896E7-886D-48F0-9BE7-B63591506B1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaVinci.Domain", "..\DaVinci.Domain\DaVinci.Domain.csproj", "{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaVinci.DataBase", "..\DaVinci.DataBase\DaVinci.DataBase.csproj", "{BCA65FE2-A173-4BBE-9C8C-35E58028E131}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{4B941E98-9A42-4229-AEB0-EE566DF7D68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaVinci.WhiteBox", "..\DaVinci.WhiteBox\DaVinci.WhiteBox.csproj", "{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2D9581-2477-4C68-8830-0EC5B66B664E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2D9581-2477-4C68-8830-0EC5B66B664E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2D9581-2477-4C68-8830-0EC5B66B664E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2D9581-2477-4C68-8830-0EC5B66B664E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5896E7-886D-48F0-9BE7-B63591506B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5896E7-886D-48F0-9BE7-B63591506B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5896E7-886D-48F0-9BE7-B63591506B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5896E7-886D-48F0-9BE7-B63591506B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA65FE2-A173-4BBE-9C8C-35E58028E131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA65FE2-A173-4BBE-9C8C-35E58028E131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA65FE2-A173-4BBE-9C8C-35E58028E131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA65FE2-A173-4BBE-9C8C-35E58028E131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B2D9581-2477-4C68-8830-0EC5B66B664E} = {2EF64323-65BF-4377-98EF-499D40C56736}
+		{BF5896E7-886D-48F0-9BE7-B63591506B1A} = {CB5AC0C5-22BC-4BC8-A681-FC553424DBC7}
+		{E3CFFA09-59C7-4A9F-9F15-29D5EE0CBF91} = {CB5AC0C5-22BC-4BC8-A681-FC553424DBC7}
+		{BCA65FE2-A173-4BBE-9C8C-35E58028E131} = {CB5AC0C5-22BC-4BC8-A681-FC553424DBC7}
+		{9D8C5CC4-2F81-4213-B1F9-55BE65DB78E4} = {4B941E98-9A42-4229-AEB0-EE566DF7D68D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369A950C-A732-4F63-A737-C67190C113D7}
+	EndGlobalSection
+EndGlobal

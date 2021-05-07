@@ -1,0 +1,8 @@
+C:\Users\vcastro\source\repos\DaVinci.Domain\bin\Debug\netcoreapp3.1\DaVinci.Domain.deps.json
+C:\Users\vcastro\source\repos\DaVinci.Domain\bin\Debug\netcoreapp3.1\DaVinci.Domain.dll
+C:\Users\vcastro\source\repos\DaVinci.Domain\bin\Debug\netcoreapp3.1\DaVinci.Domain.pdb
+C:\Users\vcastro\source\repos\DaVinci.Domain\obj\Debug\netcoreapp3.1\DaVinci.Domain.csprojAssemblyReference.cache
+C:\Users\vcastro\source\repos\DaVinci.Domain\obj\Debug\netcoreapp3.1\DaVinci.Domain.AssemblyInfoInputs.cache
+C:\Users\vcastro\source\repos\DaVinci.Domain\obj\Debug\netcoreapp3.1\DaVinci.Domain.AssemblyInfo.cs
+C:\Users\vcastro\source\repos\DaVinci.Domain\obj\Debug\netcoreapp3.1\DaVinci.Domain.dll
+C:\Users\vcastro\source\repos\DaVinci.Domain\obj\Debug\netcoreapp3.1\DaVinci.Domain.pdb
