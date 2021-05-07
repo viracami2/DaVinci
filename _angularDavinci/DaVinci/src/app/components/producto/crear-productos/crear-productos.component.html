@@ -1,0 +1,55 @@
+<form [formGroup]="tipoForm" style="width: 500px;">
+    
+    <div fxLayout="column"  fxLayoutGap="30px" >
+        
+        <div fxLayout="row" fxLayoutGap="30px"  >
+
+            <mat-form-field class="example-full-width">
+                <mat-label>Numero Factura</mat-label>
+                <input matInput type="text" formControlName="numeroFactura">
+            </mat-form-field>
+            
+        
+
+            <mat-form-field class="example-full-width">
+                <mat-label>Nit</mat-label>
+                <input matInput type="text" formControlName="nit">
+            </mat-form-field>
+        </div>
+            
+        <div fxLayout="row" fxLayoutGap="30px" >
+
+            <mat-form-field class="example-full-width">
+                <mat-label>Valor Bruto</mat-label>
+                <input matInput type="text" formControlName="valorBruto">
+            </mat-form-field>
+        
+            
+            
+            <mat-form-field class="example-full-width">
+                <mat-label>IVA</mat-label>
+                <input matInput type="text" formControlName="iva">
+            </mat-form-field>
+        </div>
+       
+        <div fxLayout="row" fxLayoutGap="30px" >
+
+            <mat-form-field class="example-full-width">
+                <mat-label>Valor Total</mat-label>
+                <input matInput type="text" formControlName="valorTotal">
+            </mat-form-field>
+            
+            <mat-form-field class="example-full-width">
+                <mat-label>Observaciones</mat-label>
+                <input matInput type="text" formControlName="observaciones">
+            </mat-form-field>
+        </div>
+
+    </div>
+
+    <button mat-raised-button color="accent"  (click)="guardar()"  >Guardar</button>
+
+        
+</form>
+
+  
